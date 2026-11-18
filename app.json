@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Port Trail",
+    "slug": "port-trail",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.porttrail.app"
+    },
+    "android": {
+      "package": "com.porttrail.app"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
+
